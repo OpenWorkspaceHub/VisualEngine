@@ -1,0 +1,7 @@
+<VisualEngine Version="1.0.79">
+    <ItemGroup>
+        <ItemBinding Value="library" src="__pycache__/library.cpython-311.pyc"/>
+        <ItemBinding Value="time_sleep" src="__pycache__/time_sleep.cpython-311.pyc"/>
+        <ItemBinding Value="os_system" src="__pycache__/os_system.cpython-311.pyc"/>
+    </ItemGroup>
+</VisualEngine>
